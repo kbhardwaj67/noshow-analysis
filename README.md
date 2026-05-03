@@ -1,4 +1,4 @@
-# No Show Analysis
+### No Show Analysis
 
 # What I looked at
 I wanted to see what makes patients miss their appointments
