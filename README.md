@@ -9,8 +9,7 @@ Used a dataset from Kaggle with about 110,000 appointments.
 File: KaggleV2-May-2016.csv
 
 ## How to run it
-pip install pandas matplotlib seaborn
-then just run the notebook
+pip install pandas matplotlib seaborn in terminal then just run the notebook
 
 ## What I found
 About 28% of patients missed their appointment
